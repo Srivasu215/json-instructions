@@ -1,5 +1,5 @@
 import itemsData from "./items.json" with { type: "json" };
-import runInstruction from "https://keshavsoft.github.io/json-renderers-run-instructions/docs/dist/v11/min.js";
+import runInstruction from "https://keshavsoft.github.io/json-renderers-run-instructions/dist/v11/min.js";
 
 const start = () => {
     try {
